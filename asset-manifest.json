@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecommerce-demo/static/css/main.3d1095e8.css",
+    "main.js": "/ecommerce-demo/static/js/main.19730812.js",
+    "static/js/453.d86dfdf4.chunk.js": "/ecommerce-demo/static/js/453.d86dfdf4.chunk.js",
+    "static/media/ecomm-hero.png": "/ecommerce-demo/static/media/ecomm-hero.fdec5bcf6cfc015fa7ce.png",
+    "static/media/backpack.png": "/ecommerce-demo/static/media/backpack.6492cbfb909ecbd26ecd.png",
+    "static/media/watches.png": "/ecommerce-demo/static/media/watches.c87f329303a5b3348f0d.png",
+    "static/media/speaker.png": "/ecommerce-demo/static/media/speaker.09de4b454fb48e82e929.png",
+    "static/media/fashion.png": "/ecommerce-demo/static/media/fashion.70545af8a04cfe08398b.png",
+    "static/media/sports.png": "/ecommerce-demo/static/media/sports.8a2332537fbb233a569e.png",
+    "static/media/home.png": "/ecommerce-demo/static/media/home.f3efb38ad95ad27fbad9.png",
+    "static/media/headphones1.png": "/ecommerce-demo/static/media/headphones1.e4f930d66a127874732c.png",
+    "static/media/electronics.png": "/ecommerce-demo/static/media/electronics.715251ff37584b3d1397.png",
+    "index.html": "/ecommerce-demo/index.html",
+    "main.3d1095e8.css.map": "/ecommerce-demo/static/css/main.3d1095e8.css.map",
+    "main.19730812.js.map": "/ecommerce-demo/static/js/main.19730812.js.map",
+    "453.d86dfdf4.chunk.js.map": "/ecommerce-demo/static/js/453.d86dfdf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1095e8.css",
+    "static/js/main.19730812.js"
+  ]
+}
