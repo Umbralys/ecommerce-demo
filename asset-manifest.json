@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce-demo/static/css/main.3d1095e8.css",
-    "main.js": "/ecommerce-demo/static/js/main.117e5416.js",
+    "main.css": "/ecommerce-demo/static/css/main.98a02bce.css",
+    "main.js": "/ecommerce-demo/static/js/main.2cacd39f.js",
     "static/js/453.d86dfdf4.chunk.js": "/ecommerce-demo/static/js/453.d86dfdf4.chunk.js",
     "static/media/ecomm-hero.png": "/ecommerce-demo/static/media/ecomm-hero.fdec5bcf6cfc015fa7ce.png",
     "static/media/backpack.png": "/ecommerce-demo/static/media/backpack.6492cbfb909ecbd26ecd.png",
@@ -13,12 +13,12 @@
     "static/media/headphones1.png": "/ecommerce-demo/static/media/headphones1.e4f930d66a127874732c.png",
     "static/media/electronics.png": "/ecommerce-demo/static/media/electronics.715251ff37584b3d1397.png",
     "index.html": "/ecommerce-demo/index.html",
-    "main.3d1095e8.css.map": "/ecommerce-demo/static/css/main.3d1095e8.css.map",
-    "main.117e5416.js.map": "/ecommerce-demo/static/js/main.117e5416.js.map",
+    "main.98a02bce.css.map": "/ecommerce-demo/static/css/main.98a02bce.css.map",
+    "main.2cacd39f.js.map": "/ecommerce-demo/static/js/main.2cacd39f.js.map",
     "453.d86dfdf4.chunk.js.map": "/ecommerce-demo/static/js/453.d86dfdf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d1095e8.css",
-    "static/js/main.117e5416.js"
+    "static/css/main.98a02bce.css",
+    "static/js/main.2cacd39f.js"
   ]
 }
